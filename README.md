@@ -14,5 +14,5 @@
 </div>
 <!-- 提交图表 -->
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=DevHaoZi&theme=minimal" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevHaoZi&theme=minimal" />
 </div>
