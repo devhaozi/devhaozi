@@ -5,14 +5,19 @@
 </p>
 <!-- 提交统计 -->
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=devhaozi&show_icons=true" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaozi&layout=compact&langs_count=8" />
+    <a href="#">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devhaozi&include_all_commits=true&rank_icon=github" />
+    </a>
+    <a href="#">
+      <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhaozi&layout=compact&langs_count=8&card_width=320" />
+    </a>
 </div>
+<br>
 <!-- 活跃统计 -->
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devhaozi" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhaozi" />
 </div>
 <!-- 提交图表 -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devhaozi&theme=minimal" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&theme=minimal" />
 </div>
