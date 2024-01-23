@@ -19,3 +19,4 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SYMBOL_VERSION: "2"
