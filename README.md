@@ -1,16 +1,16 @@
-# HaoZi (2Rat) 🔭
+# 耗子 (devhaozi) 🔭
 
-* 🌍  I'm based in China
-* 🔧  I am creatively curious and a self-learner. I love exploring new technologies
-* ✉️  You can contact me by email [haozi@loli.email](mailto:haozi@loli.email)
-* 🚀  I'm currently work in team [TheTNB](https://github.com/TheTNB)
-* 😄  Find out more of my projects below, or subscribe me by clicking the "Follow" button
+* 🌍  我来自天朝，常用 ID 有 `haozi` `devhaozi` `HaoZiOfficial`
+* 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
+* ✉️  通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
+* 🚀  我目前效力于 [TheTNB](https://github.com/TheTNB) 团队
+* 😄  在下面了解更多我的项目，或通过单击「关注」按钮订阅我
 
-## Technology Stack
+## 技术栈
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=2Rat&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=HaoZi~&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=HaoZi~&count_private=true">
 
-### Language
+### 语言
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
-### Framework
+### 框架
 
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -30,22 +30,22 @@
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### Database
+### 数据库
 
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=2Rat&stroke=000&background=fff&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devhaozi&stroke=000&background=fff&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" />
 
-### System
+### 操作系统
 
 ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/Debian-d0024d?style=flat-square&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/AlmaLinux-0f4266?style=flat-square&logo=almalinux&logoColor=white)
 ![](https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
 
-### Software
+### 软件
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
@@ -55,11 +55,11 @@
 ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## Commit Stats
+## 提交统计
 
-<a href="http://www.github.com/2Rat"><img src="https://github-readme-activity-graph.vercel.app/graph?username=2Rat&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/devhaozi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## Waka Time
+## 时间统计
 
 <!--START_SECTION:waka-->
 **🐱 我的 GitHub 数据** 
@@ -127,7 +127,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 **时间线**
 
-![Lines of Code chart](https://raw.githubusercontent.com/2Rat/2Rat/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/devhaozi/devhaozi/main/assets/bar_graph.png)
 
 
  Last Updated on 2024-23-01 15:54:10 UTC
