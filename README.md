@@ -4,7 +4,7 @@
 * 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
 * ✉️  通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
 * 🚀  我目前效力于 [TheTNB](https://github.com/TheTNB) 团队
-* 😄  在下面了解更多我的项目，或通过单击「关注」按钮订阅我
+* 😄  在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
 
 ## 技术栈
 
