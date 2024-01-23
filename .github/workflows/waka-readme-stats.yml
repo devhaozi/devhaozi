@@ -12,4 +12,10 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: "zh"
+          SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%Y-%d-%m %H:%M:%S"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
