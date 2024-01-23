@@ -8,7 +8,9 @@
 
 ## 技术栈
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=HaoZi~&count_private=true">
+<a href="http://github.com/devhaozi">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=HaoZi~&count_private=true">
+</a>
 
 ### 语言
 
@@ -36,7 +38,9 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devhaozi&stroke=000&background=fff&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" />
+<a href="http://github.com/devhaozi">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devhaozi&stroke=000&background=fff&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" />
+</a>
 
 ### 操作系统
 
@@ -57,7 +61,9 @@
 
 ## 提交统计
 
-<a href="http://www.github.com/devhaozi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://github.com/devhaozi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
 ## 时间统计
 
