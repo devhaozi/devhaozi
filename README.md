@@ -3,8 +3,8 @@
 * 🌍  我来自天朝，常用 ID `haozi` `devhaozi` `HaoZiOfficial` 等
 * 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
 * ✉️  通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
-* 🚀  我目前在 [TheTNB](https://github.com/TheTNB) 团队工作
-* 😄  在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
+* 🚀  我目前在 [树新蜂](https://github.com/TheTNB) 团队工作
+* 😄  可以在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
 
 ## 技术栈
 
