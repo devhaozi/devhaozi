@@ -59,24 +59,11 @@
 ## 状态数据
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn">
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn">
-</picture>
-
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&role=owner,collaborator&locale=cn">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&count_private=true&role=owner,collaborator&locale=cn" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&role=owner,collaborator&locale=cn" />
 <img width="80%" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
-</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_title=true&hide_border=true" alt="提交统计" />
-
-<!-- Dark Mode -->
-<div align="center">
-<img width="40%" src="#gh-dark-mode-only">
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&role=owner,collaborator&locale=cn&theme=dark#gh-dark-mode-only">
-<img width="80%" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&theme=dark#gh-dark-mode-only" />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_title=true&hide_border=true#gh-dark-mode-only" alt="提交统计" />
 
 
 <!--START_SECTION:waka-->
