@@ -58,9 +58,13 @@
 
 ## 状态数据
 
-<!-- Light Mode -->
 <div align="center">
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn">
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn">
+</picture>
+
 <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&role=owner,collaborator&locale=cn">
 <img width="80%" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
 </div>
@@ -68,7 +72,7 @@
 
 <!-- Dark Mode -->
 <div align="center">
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn&theme=dark#gh-dark-mode-only">
+<img width="40%" src="#gh-dark-mode-only">
 <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&role=owner,collaborator&locale=cn&theme=dark#gh-dark-mode-only">
 <img width="80%" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&theme=dark#gh-dark-mode-only" />
 </div>
