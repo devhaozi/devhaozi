@@ -62,14 +62,10 @@
 ## 状态数据
 
 <div align="center">
-<a href="https://github.com/devhaozi">
-<img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&count_private=true&role=owner,collaborator&locale=cn" />
-</a>
-<a href="https://github.com/devhaozi">
-<img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&role=owner,collaborator&locale=cn" />
-</a>
-<img width="80%" align="center" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_title=true&hide_border=true" alt="提交统计" />
+<img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&count_private=true&role=owner,collaborator&locale=cn" />
+<img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&role=owner,collaborator&locale=cn" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_title=true&hide_border=true" alt="提交统计" />
 </div>
 
 <!--START_SECTION:waka-->
