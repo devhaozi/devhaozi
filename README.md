@@ -24,6 +24,7 @@
 
 ### 框架
 
+[![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)](https://gin-gonic.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)](https://github.com/unocss/unocss)
@@ -43,6 +44,7 @@
 [![Debian](https://img.shields.io/badge/Debian-d0024d?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![AlmaLinux](https://img.shields.io/badge/AlmaLinux-0f4266?style=flat-square&logo=almalinux&logoColor=white)](https://almalinux.org/)
 [![RockyLinux](https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)](https://alpinelinux.org/)
 
 ### 软件
 
@@ -54,6 +56,7 @@
 [![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)](https://podman.io/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
 
 ## 状态数据
