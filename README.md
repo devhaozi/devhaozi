@@ -10,10 +10,6 @@
 
 ## 技术栈
 
-<a href="http://github.com/devhaozi">
-  <img align="right" src="https://haozi.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&icon_color=000000&title_color=000000&bg_color=00000000&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&count_private=true&locale=cn">
-</a>
-
 ### 语言
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
@@ -40,10 +36,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-<a href="http://github.com/devhaozi">
-  <img align="right" src="https://streak-stats.demolab.com/?user=devhaozi&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
-</a>
-
 ### 操作系统
 
 [![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
@@ -62,10 +54,38 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
-## 提交统计
+## 状态
 
+<!-- Light Mode -->
+<div align="center"> 
 <a href="http://github.com/devhaozi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&hide_title=true" alt="提交统计" />
+  <img width="33%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn">
+</a>
+<a href="http://github.com/devhaozi">
+  <img width="30%" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&role=owner,collaborator&layout=compact&locale=cn">
+</a>
+<a href="http://github.com/devhaozi">
+  <img width="33%" align="right" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
+</a>
+</div>
+<a href="http://github.com/devhaozi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true" alt="提交统计" />
+</a>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="http://github.com/devhaozi">
+  <img width="33%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&include_all_commits=false&include_all_commits=true&count_private=true&role=owner,collaborator&locale=cn&theme=dark#gh-dark-mode-only">
+</a>
+<a href="http://github.com/devhaozi">
+  <img width="30%" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&role=owner,collaborator&layout=compact&locale=cn&theme=dark#gh-dark-mode-only">
+</a>
+<a href="http://github.com/devhaozi">
+  <img width="33%" align="right" src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&theme=dark#gh-dark-mode-only" />
+</a>
+</div>
+<a href="http://github.com/devhaozi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true#gh-dark-mode-only" alt="提交统计" />
 </a>
 
 ## 时间统计
