@@ -11,7 +11,7 @@
 ## 技术栈
 
 <a href="http://github.com/devhaozi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&icon_color=000000&title_color=000000&bg_color=00000000&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&count_private=true&locale=cn">
+  <img align="right" src="https://haozi.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&icon_color=000000&title_color=000000&bg_color=00000000&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&count_private=true&locale=cn">
 </a>
 
 ### 语言
