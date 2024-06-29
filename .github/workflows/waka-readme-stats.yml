@@ -14,6 +14,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "zh"
+          COMMIT_USERNAME: "耗子"
+          COMMIT_EMAIL: "i@haozi.net"
+          COMMIT_MESSAGE: "chore: update WakaTime status"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_LINES_OF_CODE: "False"
