@@ -2,7 +2,7 @@
 
 <img height="180" align="right" src="https://github.com/devhaozi/devhaozi/assets/115467771/d060d482-4bb5-4287-81cd-8be904987e02">
 
-* 🌍  我来自天朝，常用 ID `haozi` `devhaozi` `HaoZiOfficial` 等
+* 🌍  我来自天朝，常用 ID `haozi` `devhaozi` `耗子` 等
 * 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
 * ✉️  通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
 * 🚀  我目前在 [树新蜂](https://github.com/TheTNB) 团队工作
