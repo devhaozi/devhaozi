@@ -32,7 +32,7 @@
 
 [![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)](https://gin-gonic.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)](https://alpinelinux.org/)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)](https://github.com/unocss/unocss)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -54,6 +54,7 @@
 [![RockyLinux](https://img.shields.io/badge/RockyLinux-10B981?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
 [![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)](https://alpinelinux.org/)
 [![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white)](https://www.apple.com/macos/)
 
 ### 软件（Softwares）
 
