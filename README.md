@@ -3,13 +3,11 @@
 <img height="180" align="right" src="https://github.com/devhaozi/devhaozi/assets/115467771/d060d482-4bb5-4287-81cd-8be904987e02">
 
 * 🌍  我来自天朝，常用 ID `haozi` `devhaozi` `耗子` 等
-* 🌍  I am from China, my IDs are `haozi` `devhaozi` `Rat` etc
+* 🌍  I am from China, my common IDs are `haozi` `devhaozi` `Rat` etc
 * 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
 * 🔧  I like to explore new technologies and learn everything I am interested in
 * ✉️  通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
 * ✉️  Can contact me via this email [haozi@loli.email](mailto:haozi@loli.email)
-* 🚀  我目前在 [树新蜂](https://github.com/TheTNB) 团队工作
-* 🚀  I am currently working in the [TNB](https://github.com/TheTNB) team
 * 😄  可以在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
 * 😄  Can learn more about my projects below, or subscribe me by clicking the "Follow" button
 
