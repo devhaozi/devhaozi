@@ -1,7 +1,5 @@
 # 耗子 (Rat) 🔭
 
-<img height="180" align="right" src="https://github.com/devhaozi/devhaozi/assets/115467771/d060d482-4bb5-4287-81cd-8be904987e02">
-
 * 🌍  我来自天朝，常用 ID `haozi` `devhaozi` `耗子` 等
 * 🌍  I am from China, my common IDs are `haozi` `devhaozi` `Rat` etc
 * 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
