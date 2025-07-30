@@ -8,6 +8,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
